@@ -1,0 +1,2 @@
+# Declaring Victory
+I think this is one of those rare moments where I get to declare victory and say "I accomplished something". After 200+ days of Learning Every Day, I have landed a backend role at my company. While I didn't have to technically interview for the role, I wouldn't have asked for it if I still had never written any Kotlin. Even though its still surface level, and I havent even gotten to async programming yet, I can read the syntax without my head spinning. I can somewhat navigate a project
